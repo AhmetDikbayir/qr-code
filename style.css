@@ -1,0 +1,18 @@
+.container-fluid {
+    background-color: hsl(212, 45%, 89%);
+    text-align: center;
+    height: 100vh;
+}
+
+
+.card>img {
+    border-radius: 25px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 15px;
+}
+
+.card-title {
+    font-family: Outfit;
+    font-weight: bold;
+}
